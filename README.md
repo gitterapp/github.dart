@@ -1,8 +1,5 @@
 # Github plugins
 
-This repo is a companion repo to the main [flutter
-repo](https://github.com/gitterapp/github-flutter). It contains the source code for
-Flutter first-party plugins (i.e., plugins developed by the core Flutter team).
 Check the `packages` directory for all plugins.
 
 These plugins are also available on
