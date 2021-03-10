@@ -1,3 +1,7 @@
+## [0.3.0] - 2021.03.10.
+
+* feat: update dependencies.
+
 ## [0.2.6] - 2019.11.15.
 
 * refactor: nothing.

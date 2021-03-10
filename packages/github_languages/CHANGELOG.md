@@ -1,3 +1,7 @@
+## [0.2.0] - 2021.03.10.
+
+* feat: update dependencies.
+
 ## [0.1.4] - 2019.08.18.
 
 * feat: Added language color.

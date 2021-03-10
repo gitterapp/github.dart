@@ -1,6 +1,5 @@
 # Github Trending
 
-[![GitHub release](https://img.shields.io/github/release/upcwangying/flutter-github-trending)](https://github.com/upcwangying/flutter-github-trending)
 [![Pub](https://img.shields.io/pub/v/flutter_github_trending)](https://pub.dev/packages/flutter_github_trending)
 
 A library to get `GitHub trending repositories` or `GitHub trending developers` for Dart and Flutter developers.

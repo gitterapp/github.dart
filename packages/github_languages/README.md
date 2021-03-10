@@ -1,6 +1,5 @@
 # Github Languages
 
-[![GitHub release](https://img.shields.io/github/release/upcwangying/flutter-github-languages)](https://github.com/upcwangying/flutter-github-languages)
 [![Pub](https://img.shields.io/pub/v/github_languages)](https://pub.dev/packages/github_languages)
 
 A library to get `GitHub languages` for Dart and Flutter developers.

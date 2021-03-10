@@ -1,17 +1,17 @@
 name: github_languages
 description: A library to get GitHub languages for Dart and Flutter developers.
-version: 0.1.4
+version: 0.2.0
 homepage: https://github.com/gitterapp/github-flutter/tree/master/packages/github_languages
 author: Ying Wang <upcwangying@gmail.com>
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.12.0+2
-  yaml: ^2.1.16
+  http: ^0.13.0
+  yaml: ^3.1.0
 
 dev_dependencies:
   flutter_test:

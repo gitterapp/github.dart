@@ -1,6 +1,5 @@
 # Github Contributions
 
-[![GitHub release](https://img.shields.io/github/release/upcwangying/flutter-github-contributions)](https://github.com/upcwangying/flutter-github-contributions)
 [![Pub](https://img.shields.io/pub/v/flutter_github_contributions)](https://pub.dev/packages/flutter_github_contributions)
 
 A library to get `GitHub contributions` for Dart and Flutter developers.
